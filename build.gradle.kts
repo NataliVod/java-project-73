@@ -13,7 +13,9 @@ plugins {
 group = "io.hexlet.blog"
 version = "1.0-SNAPSHOT"
 
-//application { mainClass.set(hexlet.code.app.appApplication) }
+application {
+	mainClass.set("hexlet.code.AppApplication")
+}
 
 repositories { mavenCentral() }
 
