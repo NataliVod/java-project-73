@@ -1,6 +1,8 @@
 Task Manager – система управления задачами, подобная http://www.redmine.org/. Она позволяет ставить задачи, назначать исполнителей и менять их статусы. 
 Для работы с системой требуется регистрация и аутентификация.
 
+https://task-manager-glpd.onrender.com
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/NataliVod/java-project-73/workflows/hexlet-check/badge.svg)](https://github.com/NataliVod/java-project-73/actions)
 
