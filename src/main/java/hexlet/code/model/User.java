@@ -50,12 +50,12 @@ public class User implements  BaseEntity {
     @CreatedDate
     private Date createdAt;
 
-    @Override
+   // @Override
     public String getPassword() {
         return password;
     }
 
-    @Override
+    //@Override
     public String getUsername() {
         return email;
     }
